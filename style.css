@@ -53,19 +53,19 @@ h1
     border-width: thick;
 }
 
-.day-box PREP
+.day-box.PREP
 {
     border-color: red;
     background-color: orangered;
 }
 
-.day-box CURRENT
+.day-box.CURRENT
 {
     border-color: yellow;
     background-color: gold;
 }
 
-.day-box COMPLETED
+.day-box.COMPLETED
 {
     border-color: green;
     background-color:greenyellow;
