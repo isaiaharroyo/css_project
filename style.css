@@ -16,6 +16,12 @@ body
     text-align: center;
 }
 
+#8359, #8360, #8361, #8362, #8363, #8364
+{
+    border-style: solid;
+    border-width: thin;
+}
+
 h1
 {
     text-align: center;
