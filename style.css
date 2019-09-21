@@ -40,7 +40,7 @@ h1
     padding-bottom:15px;  
 }
 
-.day-box.PREP
+.day-box.PREP, .day-box.CURRENT, .day-box.COMPLETED
 {
     text-align: center;
     padding:30px;
