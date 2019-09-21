@@ -1,4 +1,80 @@
 body
 {
-  background:blue;
+    background: lightgrey;
+}
+
+.person_image
+{
+    float: right;
+}
+
+.nav
+{
+    font-size: 25px;
+    word-spacing: 2.5em;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.username
+{
+    font-weight: bold;
+    line-height: 4em;
+    float: right;
+}
+
+.day
+{
+    font-size: 30px;
+    text-align: center;
+    border-style: solid;
+    border-top: 1px;
+    border-left: 1px; 
+    border-right: 1px;
+    padding-bottom:15px;  
+}
+
+.day-box.prep, .day-box.current, .day-box.completed
+{
+    text-align: center;
+    padding:30px;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    line-height: 20px;
+    border-style: solid;
+    border-width: thick;
+}
+
+.day-box.prep
+{
+    border-color: red;
+    background-color: orangered;
+}
+
+.day-box.current
+{
+    border-color: yellow;
+    background-color: gold;
+}
+
+.day-box.completed
+{
+    border-color: green;
+    background-color :greenyellow
+}
+
+.assignment-label
+{
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 25px;
+    padding-bottom: 7px;
 }
