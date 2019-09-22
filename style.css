@@ -1,7 +1,7 @@
 body
 {
     background: lightgrey;
-    background-image: url("https://upload.wikimedia.org/wikipedia/en/6/61/Centrecollegeseal.png");
+    background-image: url();
     background-size: 1000px, 1000px;
     background-repeat: no-repeat;
     background-position: top center;
@@ -10,6 +10,8 @@ body
 .person_image
 {
     float: right;
+    width: 80px;
+    height: 110px;
 }
 
 .nav
@@ -29,12 +31,15 @@ body
     border: solid;
     border-width: thick;
     position: fixed;
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/6/61/Centrecollegeseal.png");
+    background-repeat: no-repeat;
+    background-size: 130px, 130px;
 }
 
 h1
 {
     text-align: center;
-    padding-top: 120px;
+    padding-top: 170px;
     font-size: 45;
     font-family: Georgia;
 }
@@ -44,6 +49,7 @@ h1
     font-weight: bold;
     line-height: 4em;
     float: right;
+    display: block;
 }
 
 .day
@@ -100,7 +106,6 @@ h1
 .assignment_title
 {
     font-size: 30px;
-    padding-top:
 }
 
 .title
@@ -130,14 +135,4 @@ input
 a:hover
 {
     color: darkorange;
-}
-
-a:visited
-{
-    color: red;
-}
-
-a:active
-{
-    color: whitesmoke;
 }
