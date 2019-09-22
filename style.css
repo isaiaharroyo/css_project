@@ -1,6 +1,10 @@
 body
 {
     background: lightgrey;
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/6/61/Centrecollegeseal.png");
+    background-size: 1000px, 1000px;
+    background-repeat: no-repeat;
+    background-position: top center;
 }
 
 .person_image
@@ -14,12 +18,25 @@ body
     word-spacing: 2.5em;
     text-transform: capitalize;
     text-align: center;
+    padding-top: 15;
+}
+
+.header
+{
+    background-color: dimgrey;
+    padding: 10px;
+    width:98%;
+    border: solid;
+    border-width: thick;
+    position: fixed;
 }
 
 h1
 {
     text-align: center;
-    padding-top: 40px;
+    padding-top: 120px;
+    font-size: 45;
+    font-family: Georgia;
 }
 
 .username
@@ -57,6 +74,7 @@ h1
 {
     border-color: red;
     background-color: orangered;
+    margin-top: 45;
 }
 
 .day-box.CURRENT
@@ -77,4 +95,49 @@ h1
     font-size: 30px;
     padding-top: 25px;
     padding-bottom: 7px;
+}
+
+.assignment_title
+{
+    font-size: 30px;
+    padding-top:
+}
+
+.title
+{
+    font-size: 35px;
+    text-transform: capitalize;
+    text-align: left;
+    padding-top: 60px;
+}
+    
+label
+{
+    font-size: 25px;
+    display: block;
+    text-align: left;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+input
+{
+    height: 30px;
+    width: 200px;
+    font-size: 16px;
+}
+
+a:hover
+{
+    color: darkorange;
+}
+
+a:visited
+{
+    color: red;
+}
+
+a:active
+{
+    color: whitesmoke;
 }
