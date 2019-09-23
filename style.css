@@ -131,7 +131,7 @@ h3
     font-size: 35px;
     text-transform: capitalize;
     text-align: center;
-    padding-top: 60px;
+    padding-top: 200px;
 }
     
 label
@@ -139,7 +139,7 @@ label
     font-size: 25px;
     text-transform: capitalize;
     display: block;
-    text-align: left;
+    text-align: center;
     padding-top: 20px;
     margin-top: 20px;
 }
@@ -202,6 +202,6 @@ span
 
 svg
 {
-    margin-top: 200px;
+    margin-top: 230px;
     margin-right: auto;
 }
