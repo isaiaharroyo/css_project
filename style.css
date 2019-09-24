@@ -12,6 +12,7 @@ body
     float: right;
     width: 80px;
     height: 110px;
+    margin-right: 5px;
 }
 
 .nav
@@ -67,6 +68,7 @@ h3
     float: right;
     display: block;
     clear: right;
+    padding-right: 5px;
 }
 
 .day
