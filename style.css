@@ -333,6 +333,7 @@ table .person_info .username
 {
     text-align: center;
     width: 163px;
+    color: black;
     padding-right: 0px;
     display: block;
     margin-right: auto;
