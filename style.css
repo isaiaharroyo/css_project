@@ -238,7 +238,8 @@ svg
 {
     /* margin-top: 230px; */
     /* margin-right: auto; */
-    padding-top: 322px;
+    padding-top: 166px;
     display: block;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
