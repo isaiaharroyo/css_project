@@ -402,7 +402,8 @@ textarea
 .login .username
 {
     display: block;
-    margin-right: 44.34%;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
 
