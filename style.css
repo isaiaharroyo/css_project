@@ -402,7 +402,12 @@ textarea
 .login .username
 {
     display: block;
-    margin-right: 48%;
+    margin-right: 44.34%;
+}
+
+span.username
+{
+    margin-right: 44%
 }
 
 .author_comments
