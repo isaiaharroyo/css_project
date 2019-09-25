@@ -326,7 +326,8 @@ th, td
 .person_info .person_image
 {
     display: block;
-    margin-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 td.person_info
