@@ -31,10 +31,10 @@ body
 .header
 {
     background-color: black;
-    height: 146px;
+    height: 153px;
     /* padding-top: 10px; */
     margin-top: -8px;
-    margin-left: -8px;
+    margin-left: -20px;
     margin-right: 10px;
     width: 99.5%;       /* width:98.81%; */ 
     border: solid;
