@@ -255,6 +255,7 @@ label
     font-size: 25px;
     text-transform: capitalize;
     display: block;
+    clear: right;
     text-align: center;
     padding-top: 20px;
     margin-top: 20px;
