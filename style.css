@@ -137,9 +137,10 @@ h3
 
 .assignment_link
 {
-    display: block;
+    text-align: center;
+    /* display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; */
 }
 
 .assignment-label
