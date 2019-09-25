@@ -303,17 +303,12 @@ a
 
 a:hover
 {
-    color: #A7A8AA;
+    color: #004B87;
 }
 
 a.assignment_link:hover
 {
     color: #FFCD00;
-}
-
-a:visited
-{
-    color: #5C068C;
 }
 
 th, td
