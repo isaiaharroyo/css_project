@@ -262,9 +262,12 @@ input
 
 ol, ul
 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
+}
+
+li
+{
+    display: inline-block;
 }
 
 a
