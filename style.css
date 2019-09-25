@@ -399,19 +399,14 @@ textarea
     margin-right: 48%;
 }
 
-/*
 .login .username
 {
-    height: 30px;
-    width: 200px;
     display: block;
-    clear: right;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 16px;
-} */
+    margin-left: 50%;
+    margin-right: 50%;
+} 
 
 .author_comments
 {
