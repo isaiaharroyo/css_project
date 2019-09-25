@@ -229,8 +229,9 @@ span
 
 svg
 {
-    margin-top: 230px;
+    /* margin-top: 230px; */
     /* margin-right: auto; */
+    padding-top: 230px;
     display: block;
     margin: auto;
 }
