@@ -323,6 +323,13 @@ th, td
     text-align: center;
 }
 
+tr.person_image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 td.person_info
 {
     display: block;
@@ -399,14 +406,19 @@ textarea
     margin-right: 48%;
 }
 
-.login .username
+/* .login .username
 {
     display: block;
     margin-top: 5px;
     margin-bottom: 5px;
     margin-left: 50%;
     margin-right: 50%;
-} 
+} */
+
+.username input
+{
+    
+}
 
 .author_comments
 {
