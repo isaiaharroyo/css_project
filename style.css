@@ -333,7 +333,7 @@ table .person_info .person_image
 table .person_info .username
 {
     text-align: center;
-    width: 163px;
+    width: 180px;
     color: black;
     padding-right: 0px;
     display: block;
@@ -351,7 +351,7 @@ table
 {
     margin-left: auto;
     margin-right: auto;
-    font-size: 2em;
+    font-size: 1.3em;
 }
 
 tr:hover
