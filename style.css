@@ -331,6 +331,7 @@ table .person_info .person_image
 
 table .person_info .username
 {
+    text-align: center;
     display: block;
     margin-right: auto;
     margin-left: auto;
