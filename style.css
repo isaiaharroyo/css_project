@@ -372,6 +372,9 @@ textarea
 
 .author_comments
 {
-    width: 85%;
+    width: 75%;
     text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
