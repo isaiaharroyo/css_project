@@ -18,32 +18,39 @@ body
 .nav
 {
     height: 127px;
-    font-size: 25px;
-    word-spacing: 2.5em;
+    padding-top: 50px;
+    font-size: 26px;
+    word-spacing: 3em;
     text-transform: capitalize;
     text-align: center;
-    padding-top: 15;
+    margin-bottom: auto;
+    margin-top:auto;
+    margin-left: 100px;
 }
 
 .header
 {
     background-color: black;
+    height: 141px;
     padding-top: 10px;
-    width:98%;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: 10px;
+    width:98.81%;   
     border: solid;
     border-width: thick;
     border-color: grey;
     position: fixed;
     background-image: url("https://upload.wikimedia.org/wikipedia/en/6/61/Centrecollegeseal.png");
     background-repeat: no-repeat;
-    background-size: 152px, 153px;
+    background-size: 161px, 161px; /* 153 */
 }
 
 h1
 {
     text-align: center;
     padding-top: 210px;
-    font-size: 45;
+    font-size: 45px;
     font-family: Georgia;
 }
 
