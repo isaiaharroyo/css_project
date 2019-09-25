@@ -326,7 +326,13 @@ th, td
 table .person_info .person_image
 {
     display: block;
-    margin-right: 48%;
+    margin-right: 25%;
+}
+
+table .person_info username
+{
+    margin-right: auto;
+    margin-left: auto;
 }
 
 td.person_info
