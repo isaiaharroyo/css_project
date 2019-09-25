@@ -170,6 +170,8 @@ iframe
 p
 {
     width: 85%;
+    display: block;
+    margin-left: 100px;
 }
 
 .title
