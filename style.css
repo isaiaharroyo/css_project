@@ -16,6 +16,15 @@ body
     margin-right: 10px;
 }
 
+.account_form .person_image
+{
+    float: left;
+    width: 80px;
+    height: 110px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
 .nav
 {
     height: 50px;
