@@ -329,7 +329,7 @@ table .person_info .person_image
     margin-right: 25%;
 }
 
-.person_info username
+table .person_info username
 {
     display: block;
     margin-right: auto;
