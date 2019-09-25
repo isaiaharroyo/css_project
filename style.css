@@ -19,7 +19,6 @@ body
 .nav
 {
     height: 127px;
-    text-decoration: none;
     padding-top: 55px;
     font-size: 26px;
     word-spacing: 3em;
@@ -178,6 +177,7 @@ input
 a
 {
     color: white;
+    text-decoration:none;
 }
 
 a:hover
