@@ -197,7 +197,14 @@ iframe
     margin-left: auto;
     margin-right: auto; */ 
     text-align: center;
-    padding: 10px;
+    padding: 25px;
+}
+
+p
+{
+    width: 85%;
+    padding: 5px;
+    text-align: center;
 }
 
 .title
@@ -282,6 +289,9 @@ img
 
 span
 {
+    display: block;
+    margin: left;
+    margin: right;
     text-align: center;
 }
 
