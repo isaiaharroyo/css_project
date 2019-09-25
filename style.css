@@ -12,6 +12,7 @@ body
     float: right;
     width: 80px;
     height: 110px;
+    margin-top: 10px;
     margin-right: 10px;
 }
 
@@ -31,7 +32,7 @@ body
 .header
 {
     background-color: black;
-    height: 153px;
+    height: 159px;
     /* padding-top: 10px; */
     margin-top: -25px;
     margin-left: -8px;
