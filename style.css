@@ -198,7 +198,7 @@ a:active
     color: white;
 }
 
-th, td
+tr, td
 {
     padding: 15px;
     border: 2px solid black;
@@ -206,10 +206,10 @@ th, td
 
 }
 
-td.person_info
+/* td.person_info
 {
     align: center;
-}
+} */
 
 table
 {
