@@ -166,12 +166,20 @@ h3
     padding-top: 5px;
 } */
 
+.day-box.PREP .assignment-title
+{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
 .assignment-title
 {
-    font-size: 20px;/* 30 */
+    font-size: 30px;
     text-align: center;
-    margin-top: 0px;/* 30 */
-    padding-top: 0px;/* 164 */
+    margin-top 30px;
+    padding-top: 164px;
 }
 
 iframe
