@@ -149,17 +149,17 @@ h3
     padding-top: 190px;
 }
 
-.day-box.PREP.assignment-title
+/* .day-box.PREP.assignment-title
 {
     font-size: 30px;
     padding-top: 5px;
-}
+} */
 
 .assignment-title
 {
     font-size: 30px;
     text-align: center;
-    padding-top:164px;
+    margin-top: 164px;
 }
 
 iframe
