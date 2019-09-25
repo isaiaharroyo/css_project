@@ -19,7 +19,8 @@ body
 .nav
 {
     height: 127px;
-    padding-top: 50px;
+    text-decoration: none;
+    padding-top: 55px;
     font-size: 26px;
     word-spacing: 3em;
     text-transform: capitalize;
@@ -32,7 +33,6 @@ body
 .header
 {
     background-color: black;
-    text-decoration: none;
     height: 159px;
     /* padding-top: 10px; */
     margin-top: -30px;
