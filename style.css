@@ -163,8 +163,8 @@ iframe
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .prompt
@@ -172,6 +172,12 @@ iframe
     width: 85%;
     display: block;
     margin: auto;
+}
+
+.view_text
+{
+    margin: auto;
+    padding: 10px;
 }
 
 .title
