@@ -22,7 +22,8 @@ body
     height: 110px;
     display: block;
     margin-left: auto;
-    margin-right: 50%;
+    margin-right: 48%;
+    clear: both;
 }
 
 .nav
