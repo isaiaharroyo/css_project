@@ -198,19 +198,14 @@ a:active
     color: white;
 }
 
-th
-{
-    border-top: 1px solid #999;
-}
-
-tr, td
+th, td
 {
     padding: 15px;
     border: 2px solid black;
     text-align: center;
 }
 
-person_info
+.person_info
 {
     margin-left: auto;
     margin-right: auto;
