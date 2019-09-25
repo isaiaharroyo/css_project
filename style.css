@@ -205,7 +205,7 @@ th, td
     text-align: center;
 }
 
-.person_info
+td.person_info
 {
     display: block;
     margin: auto;
