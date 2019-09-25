@@ -198,18 +198,23 @@ a:active
     color: white;
 }
 
+th
+{
+    border-top: 1px solid #999;
+}
+
 tr, td
 {
     padding: 15px;
     border: 2px solid black;
     text-align: center;
-
 }
 
-/* td.person_info
+person_info
 {
-    align: center;
-} */
+    margin-left: auto;
+    margin-right: auto;
+}
 
 table
 {
