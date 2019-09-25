@@ -203,6 +203,9 @@ iframe
 p
 {
     width: 85%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     padding: 5px;
     text-align: center;
 }
@@ -289,7 +292,8 @@ img
 
 span
 {
-    padding: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
     display: block;
     margin: left;
     margin: right;
