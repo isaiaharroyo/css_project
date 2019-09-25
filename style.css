@@ -151,7 +151,9 @@ h3
 
 .assignment-title
 {
-    padding-top:190px;
+    font-size: 30px;
+    text-align: center;
+    padding-top:164px;
 }
 
 .title
