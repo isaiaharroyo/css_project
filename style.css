@@ -370,3 +370,8 @@ textarea
     margin-top: 30px;
 }
 
+.author_comments
+{
+    width: 85%;
+    text-align: center;
+}
