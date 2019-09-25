@@ -91,7 +91,7 @@ h3
 
 .username
 {
-    font-weight: bold;
+    /* font-weight: bold; */
     color: #FFCD00;
     line-height: 2em;
     float: right;
