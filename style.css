@@ -18,11 +18,11 @@ body
 
 .account_form .person_image
 {
-    float: left;
     width: 80px;
     height: 110px;
-    margin-top: 10px;
-    margin-right: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .nav
