@@ -92,7 +92,7 @@ h3
     float: right;
     display: block;
     clear: right;
-    padding-top: 4px;
+    padding-top: 3px;
     padding-right: 10px;
 }
 
@@ -327,13 +327,13 @@ table .person_info .person_image
 {
     display: block;
     margin-right: 25%;
+    border: 0px solid black;
 }
 
 table .person_info .username
 {
     text-align: center;
     width: 163px;
-    border: 0px solid black;
     color: black;
     padding-right: 0px;
     display: block;
