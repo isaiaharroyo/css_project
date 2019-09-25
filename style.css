@@ -262,7 +262,7 @@ input
 {
     height: 30px;
     width: 200px;
-    display: block;
+    display: inline-block;
     margin-top: 5px;
     margin-bottom: 5px;
     margin-left: auto;
