@@ -183,6 +183,13 @@ iframe
     margin: auto;
 }
 
+.assignment_prompt
+{
+    width: 85%;
+    display: block;
+    margin: auto;
+}
+
 .view_text
 {
     /* display: block;
