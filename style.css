@@ -11,7 +11,7 @@ body
 {
     float: right;
     width: 80px;
-    border: 1px solid #FFCD00;
+    border: 2.5px solid #FFCD00;
     height: 110px;
     margin-top: 10px;
     margin-right: 10px;
@@ -53,7 +53,7 @@ body
     width: 99.6%;       /* width:98.81%; */ 
     border: solid;
     border-width: thick;
-    border-color: grey;
+    border-color: #75787B;
     position: fixed;
     background-image: url("https://upload.wikimedia.org/wikipedia/en/6/61/Centrecollegeseal.png");
     background-repeat: no-repeat;
