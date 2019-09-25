@@ -212,6 +212,12 @@ table
     margin-right: auto;
 }
 
+td
+{
+    align: center;
+    text-align: center;
+}
+
 tr:hover
 {
     background-color: grey;
