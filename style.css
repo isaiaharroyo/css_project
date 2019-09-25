@@ -323,7 +323,7 @@ th, td
     text-align: center;
 }
 
-.person_info .person_image
+table .person_info .person_image
 {
     display: block;
     margin-right: auto;
