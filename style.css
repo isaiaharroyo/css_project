@@ -182,9 +182,10 @@ iframe
 
 .view_text
 {
-    display: block;
+    /* display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; */ 
+    text-align: center;
     padding: 10px;
 }
 
