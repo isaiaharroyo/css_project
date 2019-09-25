@@ -156,6 +156,15 @@ h3
     padding-top:164px;
 }
 
+iframe
+{
+    width: 500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
 .title
 {
     font-size: 35px;
