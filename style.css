@@ -149,6 +149,12 @@ h3
     padding-top: 190px;
 }
 
+.day-box.PREP.assignment_title
+{
+    font-size: 30px;
+    padding-top: 5px;
+}
+
 .assignment-title
 {
     font-size: 30px;
