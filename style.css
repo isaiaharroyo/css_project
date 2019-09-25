@@ -206,16 +206,15 @@ th, td
 
 }
 
+td.person_info
+{
+    align: center;
+}
+
 table
 {
     margin-left: auto;
     margin-right: auto;
-}
-
-td
-{
-    align: center;
-    text-align: center;
 }
 
 tr:hover
