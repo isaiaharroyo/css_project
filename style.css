@@ -24,10 +24,10 @@ body
     word-spacing: 3em;
     text-transform: capitalize;
     text-align: center;
-    margin-bottom: auto;
+    margin-bottom: 50px;
     margin-top:auto;
     margin-left: 200px;
-    margin-right: 200px;
+    margin-right: 170px;
 }
 
 .header
