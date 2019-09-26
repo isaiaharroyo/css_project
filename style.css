@@ -457,14 +457,14 @@ textarea
     display: block;
     margin-right: 48%;
 }
-
+/* 
 .login .username input
 {
     display: block;
     margin-top: 5px;
     margin-bottom: 5px;
     margin-left: 50%;
-    margin-right: 50%;
+    margin-right: 50%; */
 }
 
 .username input
