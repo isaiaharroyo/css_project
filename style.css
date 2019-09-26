@@ -80,7 +80,7 @@ body
     background-size: 161px, 161px; /* 153 */
 }
 
-h1, h3
+h1, h2, h3
 {
      font-family: "Avenir Next", sans-serif;
 }
@@ -91,6 +91,14 @@ h1
     padding-top: 184px;
     padding-bottom: 5px;
     font-size: 45px;
+}
+
+h2
+{
+    text-align: center;
+    padding-top: 184px;
+    padding-bottom: 5px;
+    font-size: 25px;
 }
 
 h3
