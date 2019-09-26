@@ -33,7 +33,7 @@ body
     clear: right;
     margin-top: 15px;
     border: 2.5px solid #000000;
-    position: fixed;
+    position: absolute;
 }
 
 .partners .person_info .username
