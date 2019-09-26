@@ -40,12 +40,12 @@ body
     color: black;
 }
 
-.person_info .person_image
+body .person_info .person_image
 {
     margin-right: 40%;
 }
 
-.person_info
+body .person_info
 {
     margin-left:40%;
 }
