@@ -28,6 +28,17 @@ body
     clear: both;
 }
 
+.partners .person_info .person_image
+{
+    clear: right;
+    padding-top: 20px;
+}
+
+. partners .person_info .username
+{
+    color: black;
+}
+
 .nav
 {
     height: 50px;
