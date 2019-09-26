@@ -142,6 +142,7 @@ h3
 .day
 {
     font-size: 30px;
+    text-shadow: 20px 20px 20px #111111;
     text-align: center;
     border-style: solid;
     border-top: 1px;
@@ -153,8 +154,7 @@ h3
 .day-box.PREP, .day-box.CURRENT, .day-box.COMPLETED
 {
     text-align: center;
-    text-shadow: 20px 20px 20px 20px 20px #111111;
-    /*text-shadow: 7px 7px 13px #111111; */
+    text-shadow: 7px 7px 13px #111111;
     color: white;
     padding:30px;
     width: 650px;
