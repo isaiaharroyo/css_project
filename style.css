@@ -40,6 +40,16 @@ body
     color: black;
 }
 
+.person_info .person_image
+{
+    margin-right: 40%;
+}
+
+.person_info
+{
+    margin-left:40%;
+}
+
 .partners
 {
     padding-top: 6px;
