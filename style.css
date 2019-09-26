@@ -42,7 +42,10 @@ body
 
 .partners
 {
-    padding-top: 100px;
+    padding-top: 6px;
+    margin-left: 160px;
+    color: white;
+    font-family: "Avenir Next", sans-serif;
 }
 
 .nav
