@@ -40,6 +40,11 @@ body
     color: black;
 }
 
+.partners .person_info a
+{
+    padding-top: 100px;
+}
+
 .nav
 {
     height: 50px;
