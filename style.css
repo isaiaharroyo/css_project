@@ -142,7 +142,7 @@ h3
 .day
 {
     font-size: 30px;
-    text-shadow: 7px 7px 13px #111111;
+    text-shadow: 7px 7px 7px 7px 13px #111111;
     text-align: center;
     border-style: solid;
     border-top: 1px;
