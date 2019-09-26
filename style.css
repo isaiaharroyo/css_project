@@ -458,7 +458,7 @@ textarea
     margin-right: 48%;
 }
 
-.login .username
+.login .username input
 {
     display: block;
     margin-top: 5px;
